@@ -1,4 +1,4 @@
-👋 Hi, I’m Rasha E.
+👋 Hi, I’m Rasha .
 👀 I’m interested in Python development, Django, and web app projects.
 🌱 I’m currently learning full-stack development, focusing on Django and React.
 💞️ I’m looking to collaborate on innovative web apps, particularly those involving remote control features or delivery services.
