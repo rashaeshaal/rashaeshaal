@@ -1,6 +1,6 @@
 👋 Hi, I’m Rasha .
 👀 I’m interested in Python development, Django, and web app projects.
-🌱 I’m currently learning full-stack development, focusing on Django and React.
+🌱 I’m currently learning full-stack development, focusing on Django,Angular and React.
 💞️ I’m looking to collaborate on innovative web apps, particularly those involving remote control features or delivery services.
 📫 How to reach me: You can reach me here or via email.
 😄 Pronouns: She/Her
